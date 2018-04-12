@@ -1,0 +1,2942 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w:document mc:Ignorable="w14 w15 wp14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+>
+    <w:body>
+        <w:p>
+            <w:pPr>
+                <w:jc w:val="center"/>
+                <w:rPr>
+                    <w:rFonts w:ascii="Tahoma" w:cs="Tahoma" w:hAnsi="Tahoma" w:hint="eastAsia"/>
+                    <w:b/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Tahoma" w:cs="Tahoma" w:hAnsi="Tahoma" w:hint="eastAsia"/>
+                    <w:b/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="32"/>
+                    <w:szCs w:val="32"/>
+                </w:rPr>
+                <w:t>
+                    个人简历
+                </w:t>
+            </w:r>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="0"/>
+        </w:p>
+        <w:p>
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:ascii="Tahoma" w:cs="Tahoma" w:hAnsi="Tahoma" w:hint="eastAsia"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:rFonts w:ascii="Tahoma" w:cs="Tahoma" w:hAnsi="Tahoma" w:hint="eastAsia"/>
+                    <w:color w:val="000000"/>
+                    <w:sz w:val="24"/>
+                </w:rPr>
+                <w:t>
+                    基本信息
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="4"/>
+                <w:tblW w:type="dxa" w:w="9000"/>
+                <w:jc w:val="center"/>
+                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                <w:tblInd w:type="dxa" w:w="0"/>
+                <w:tblLayout w:type="fixed"/>
+                <w:tblCellMar>
+                    <w:top w:type="dxa" w:w="0"/>
+                    <w:left w:type="dxa" w:w="0"/>
+                    <w:bottom w:type="dxa" w:w="0"/>
+                    <w:right w:type="dxa" w:w="0"/>
+                </w:tblCellMar>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="9000"/>
+            </w:tblGrid>
+            <w:tr>
+                <w:tblPrEx>
+                    <w:tblLayout w:type="fixed"/>
+                    <w:tblCellMar>
+                        <w:top w:type="dxa" w:w="0"/>
+                        <w:left w:type="dxa" w:w="0"/>
+                        <w:bottom w:type="dxa" w:w="0"/>
+                        <w:right w:type="dxa" w:w="0"/>
+                    </w:tblCellMar>
+                </w:tblPrEx>
+                <w:trPr>
+                    <w:trHeight w:hRule="atLeast" w:val="225"/>
+                    <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:type="dxa" w:w="9000"/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:tbl>
+                        <w:tblPr>
+                            <w:tblStyle w:val="4"/>
+                            <w:tblW w:type="dxa" w:w="9000"/>
+                            <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            <w:tblInd w:type="dxa" w:w="0"/>
+                            <w:tblLayout w:type="fixed"/>
+                            <w:tblCellMar>
+                                <w:top w:type="dxa" w:w="0"/>
+                                <w:left w:type="dxa" w:w="0"/>
+                                <w:bottom w:type="dxa" w:w="0"/>
+                                <w:right w:type="dxa" w:w="0"/>
+                            </w:tblCellMar>
+                        </w:tblPr>
+                        <w:tblGrid>
+                            <w:gridCol w:w="9000"/>
+                        </w:tblGrid>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:tbl>
+                                    <w:tblPr>
+                                        <w:tblStyle w:val="4"/>
+                                        <w:tblW w:type="dxa" w:w="8640"/>
+                                        <w:jc w:val="center"/>
+                                        <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                        <w:tblInd w:type="dxa" w:w="0"/>
+                                        <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                        <w:tblLayout w:type="fixed"/>
+                                        <w:tblCellMar>
+                                            <w:top w:type="dxa" w:w="0"/>
+                                            <w:left w:type="dxa" w:w="0"/>
+                                            <w:bottom w:type="dxa" w:w="0"/>
+                                            <w:right w:type="dxa" w:w="0"/>
+                                        </w:tblCellMar>
+                                    </w:tblPr>
+                                    <w:tblGrid>
+                                        <w:gridCol w:w="1443"/>
+                                        <w:gridCol w:w="1784"/>
+                                        <w:gridCol w:w="1476"/>
+                                        <w:gridCol w:w="1985"/>
+                                        <w:gridCol w:w="1952"/>
+                                    </w:tblGrid>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1422"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="center"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        姓
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        名：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1770"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        高德芹
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1462"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:ind w:right="180"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        联系电话：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1971"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        18321341892
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1931"/>
+                                                <w:vMerge w:val="restart"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="center"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        照片
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1422"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="center"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        民
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        族：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1770"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        汉
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1462"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        目前所在地：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1971"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        上海
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1931"/>
+                                                <w:vMerge w:val="continue"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1422"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="center"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        年
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        龄：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1770"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        28
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        岁
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+             </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1462"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        户口所在地：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1971"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        陕西省
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1931"/>
+                                                <w:vMerge w:val="continue"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1422"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:ind w:right="105"/>
+                                                    <w:jc w:val="center"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        爱 好：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="5231"/>
+                                                <w:gridSpan w:val="3"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        阅读、
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1931"/>
+                                                <w:vMerge w:val="continue"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                </w:tbl>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="FF6600"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                        <w:t>
+                                        </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                        <w:t>
+                                            求职意向及工作经历
+                                        </w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:tbl>
+                                    <w:tblPr>
+                                        <w:tblStyle w:val="4"/>
+                                        <w:tblW w:type="dxa" w:w="8640"/>
+                                        <w:jc w:val="center"/>
+                                        <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                        <w:tblInd w:type="dxa" w:w="0"/>
+                                        <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                        <w:tblLayout w:type="fixed"/>
+                                        <w:tblCellMar>
+                                            <w:top w:type="dxa" w:w="0"/>
+                                            <w:left w:type="dxa" w:w="0"/>
+                                            <w:bottom w:type="dxa" w:w="0"/>
+                                            <w:right w:type="dxa" w:w="0"/>
+                                        </w:tblCellMar>
+                                    </w:tblPr>
+                                    <w:tblGrid>
+                                        <w:gridCol w:w="1427"/>
+                                        <w:gridCol w:w="1191"/>
+                                        <w:gridCol w:w="1834"/>
+                                        <w:gridCol w:w="4188"/>
+                                    </w:tblGrid>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1406"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        人才类型：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="7192"/>
+                                                <w:gridSpan w:val="3"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        全职
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1406"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        应聘职位：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="7192"/>
+                                                <w:gridSpan w:val="3"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:after="100" w:afterAutospacing="1" w:before="100"
+                                                               w:beforeAutospacing="1" w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        生物工程类、 食品工程/糖酒、 生物化工/制药
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1406"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        工作年限：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1177"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        3
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1820"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        职称：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="4167"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        其它
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1406"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        求职类型：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1177"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        全职
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1820"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        可到职日期：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="4167"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        随时
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1406"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        工作经历：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="7192"/>
+                                                <w:gridSpan w:val="3"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:tbl>
+                                                <w:tblPr>
+                                                    <w:tblStyle w:val="4"/>
+                                                    <w:tblW w:type="dxa" w:w="7192"/>
+                                                    <w:tblCellSpacing w:type="dxa" w:w="15"/>
+                                                    <w:tblInd w:type="dxa" w:w="0"/>
+                                                    <w:tblLayout w:type="fixed"/>
+                                                    <w:tblCellMar>
+                                                        <w:top w:type="dxa" w:w="15"/>
+                                                        <w:left w:type="dxa" w:w="15"/>
+                                                        <w:bottom w:type="dxa" w:w="15"/>
+                                                        <w:right w:type="dxa" w:w="15"/>
+                                                    </w:tblCellMar>
+                                                </w:tblPr>
+                                                <w:tblGrid>
+                                                    <w:gridCol w:w="7192"/>
+                                                </w:tblGrid>
+                                                <w:tr>
+                                                    <w:tblPrEx>
+                                                        <w:tblLayout w:type="fixed"/>
+                                                        <w:tblCellMar>
+                                                            <w:top w:type="dxa" w:w="15"/>
+                                                            <w:left w:type="dxa" w:w="15"/>
+                                                            <w:bottom w:type="dxa" w:w="15"/>
+                                                            <w:right w:type="dxa" w:w="15"/>
+                                                        </w:tblCellMar>
+                                                    </w:tblPrEx>
+                                                    <w:trPr>
+                                                        <w:tblCellSpacing w:type="dxa" w:w="15"/>
+                                                    </w:trPr>
+                                                    <w:tc>
+                                                        <w:tcPr>
+                                                            <w:tcW w:type="dxa" w:w="7132"/>
+                                                            <w:vAlign w:val="center"/>
+                                                        </w:tcPr>
+                                                        <w:p>
+                                                            <w:pPr>
+                                                                <w:widowControl/>
+                                                                <w:wordWrap w:val="0"/>
+                                                                <w:spacing w:line="360" w:lineRule="auto"/>
+                                                                <w:ind w:firstLine="420" w:firstLineChars="200"/>
+                                                                <w:jc w:val="left"/>
+                                                                <w:rPr>
+                                                                    <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                              w:hint="eastAsia"/>
+                                                                    <w:kern w:val="0"/>
+                                                                    <w:szCs w:val="21"/>
+                                                                </w:rPr>
+                                                            </w:pPr>
+                                                            <w:r>
+                                                                <w:rPr>
+                                                                    <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                              w:hint="eastAsia"/>
+                                                                    <w:kern w:val="0"/>
+                                                                    <w:szCs w:val="21"/>
+                                                                </w:rPr>
+                                                                <w:t>
+                                                                    2012年7月到2015年2月在内蒙古阜丰生物科技有限公司的黄原胶车间工作。
+                                                                </w:t>
+                                                            </w:r>
+                                                        </w:p>
+                                                        <w:p>
+                                                            <w:pPr>
+                                                                <w:widowControl/>
+                                                                <w:wordWrap w:val="0"/>
+                                                                <w:spacing w:line="360" w:lineRule="auto"/>
+                                                                <w:ind w:firstLine="420" w:firstLineChars="200"/>
+                                                                <w:jc w:val="left"/>
+                                                                <w:rPr>
+                                                                    <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                              w:hint="eastAsia"/>
+                                                                    <w:kern w:val="0"/>
+                                                                    <w:szCs w:val="21"/>
+                                                                </w:rPr>
+                                                            </w:pPr>
+                                                            <w:r>
+                                                                <w:rPr>
+                                                                    <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                              w:hint="eastAsia"/>
+                                                                    <w:kern w:val="0"/>
+                                                                    <w:szCs w:val="21"/>
+                                                                </w:rPr>
+                                                                <w:t>
+                                                                    主要从事于生物技术类工作，首先熟悉微生物发酵所需的最佳环境条件，对黄原胶发酵的工艺过程有基本的了解，配合种子和配料工序做好发酵的准备；然后当罐体开始发酵时，提供罐体发酵所需的溶氧量，适宜的温度，合适的ph。不同时间段所需的条件不同，通过发酵时间的记录以及实时监测了解菌体的生长情况，积极采取措施并提供合适的发酵要素，以达到最佳微生物发酵的目的。最终，在工作过程中，通过实践和总结，并在操作过程中不断发现和提出问题，减少染菌率，找出最佳条件以达到产品的高质量和高效率。
+                                                                </w:t>
+                                                            </w:r>
+                                                        </w:p>
+                                                    </w:tc>
+                                                </w:tr>
+                                            </w:tbl>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                </w:tbl>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="FF6600"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                        <w:t>
+                                        </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                        <w:t>
+                                            教育背景
+                                        </w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:tbl>
+                                    <w:tblPr>
+                                        <w:tblStyle w:val="4"/>
+                                        <w:tblW w:type="dxa" w:w="8640"/>
+                                        <w:jc w:val="center"/>
+                                        <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                        <w:tblInd w:type="dxa" w:w="0"/>
+                                        <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                        <w:tblLayout w:type="fixed"/>
+                                        <w:tblCellMar>
+                                            <w:top w:type="dxa" w:w="0"/>
+                                            <w:left w:type="dxa" w:w="0"/>
+                                            <w:bottom w:type="dxa" w:w="0"/>
+                                            <w:right w:type="dxa" w:w="0"/>
+                                        </w:tblCellMar>
+                                    </w:tblPr>
+                                    <w:tblGrid>
+                                        <w:gridCol w:w="1662"/>
+                                        <w:gridCol w:w="3231"/>
+                                        <w:gridCol w:w="1441"/>
+                                        <w:gridCol w:w="2306"/>
+                                    </w:tblGrid>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1641"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        毕业院校：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="6957"/>
+                                                <w:gridSpan w:val="3"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:ind w:firstLine="210" w:firstLineChars="100"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        内蒙古工业大学
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1641"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        最高学历：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="3217"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        本科
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1427"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        毕业日期：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="2285"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        2
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        012.07
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1641"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        专 业
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        ：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="6957"/>
+                                                <w:gridSpan w:val="3"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        生物工程
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                </w:tbl>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="FF6600"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                        <w:t>
+                                        </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                        <w:t>
+                                            语言能力
+                                        </w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:tbl>
+                                    <w:tblPr>
+                                        <w:tblStyle w:val="4"/>
+                                        <w:tblW w:type="dxa" w:w="8640"/>
+                                        <w:jc w:val="center"/>
+                                        <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                        <w:tblInd w:type="dxa" w:w="0"/>
+                                        <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                        <w:tblLayout w:type="fixed"/>
+                                        <w:tblCellMar>
+                                            <w:top w:type="dxa" w:w="0"/>
+                                            <w:left w:type="dxa" w:w="0"/>
+                                            <w:bottom w:type="dxa" w:w="0"/>
+                                            <w:right w:type="dxa" w:w="0"/>
+                                        </w:tblCellMar>
+                                    </w:tblPr>
+                                    <w:tblGrid>
+                                        <w:gridCol w:w="1496"/>
+                                        <w:gridCol w:w="3376"/>
+                                        <w:gridCol w:w="1490"/>
+                                        <w:gridCol w:w="2278"/>
+                                    </w:tblGrid>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1475"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:wordWrap w:val="0"/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        外
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        语：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="3362"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        英语
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1476"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        外语水平：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="2257"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        四
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        级
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1475"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        国语水平：
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="7123"/>
+                                                <w:gridSpan w:val="3"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        国家普通话测试二级乙等
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                </w:tbl>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="FF6600"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                        <w:t>
+                                        </w:t>
+                                    </w:r>
+                                    <w:r>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:color w:val="000000"/>
+                                            <w:kern w:val="0"/>
+                                            <w:sz w:val="24"/>
+                                        </w:rPr>
+                                        <w:t>
+                                            工作能力及其他专长
+                                        </w:t>
+                                    </w:r>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                        <w:tr>
+                            <w:tblPrEx>
+                                <w:tblLayout w:type="fixed"/>
+                                <w:tblCellMar>
+                                    <w:top w:type="dxa" w:w="0"/>
+                                    <w:left w:type="dxa" w:w="0"/>
+                                    <w:bottom w:type="dxa" w:w="0"/>
+                                    <w:right w:type="dxa" w:w="0"/>
+                                </w:tblCellMar>
+                            </w:tblPrEx>
+                            <w:trPr>
+                                <w:tblCellSpacing w:type="dxa" w:w="0"/>
+                            </w:trPr>
+                            <w:tc>
+                                <w:tcPr>
+                                    <w:tcW w:type="dxa" w:w="9000"/>
+                                    <w:vAlign w:val="center"/>
+                                </w:tcPr>
+                                <w:tbl>
+                                    <w:tblPr>
+                                        <w:tblStyle w:val="4"/>
+                                        <w:tblW w:type="dxa" w:w="8640"/>
+                                        <w:jc w:val="center"/>
+                                        <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                        <w:tblInd w:type="dxa" w:w="0"/>
+                                        <w:shd w:color="auto" w:fill="CADADF" w:val="clear"/>
+                                        <w:tblLayout w:type="fixed"/>
+                                        <w:tblCellMar>
+                                            <w:top w:type="dxa" w:w="0"/>
+                                            <w:left w:type="dxa" w:w="0"/>
+                                            <w:bottom w:type="dxa" w:w="0"/>
+                                            <w:right w:type="dxa" w:w="0"/>
+                                        </w:tblCellMar>
+                                    </w:tblPr>
+                                    <w:tblGrid>
+                                        <w:gridCol w:w="1610"/>
+                                        <w:gridCol w:w="7030"/>
+                                    </w:tblGrid>
+                                    <w:tr>
+                                        <w:tblPrEx>
+                                            <w:tblLayout w:type="fixed"/>
+                                            <w:tblCellMar>
+                                                <w:top w:type="dxa" w:w="0"/>
+                                                <w:left w:type="dxa" w:w="0"/>
+                                                <w:bottom w:type="dxa" w:w="0"/>
+                                                <w:right w:type="dxa" w:w="0"/>
+                                            </w:tblCellMar>
+                                        </w:tblPrEx>
+                                        <w:trPr>
+                                            <w:trHeight w:hRule="atLeast" w:val="330"/>
+                                            <w:tblCellSpacing w:type="dxa" w:w="7"/>
+                                            <w:jc w:val="center"/>
+                                        </w:trPr>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="1589"/>
+                                                <w:shd w:color="auto" w:fill="EEF2F7" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="right"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                        <w:tc>
+                                            <w:tcPr>
+                                                <w:tcW w:type="dxa" w:w="7009"/>
+                                                <w:shd w:color="auto" w:fill="F4F7FA" w:val="clear"/>
+                                                <w:vAlign w:val="center"/>
+                                            </w:tcPr>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        1.掌握
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+              微生物理论基础知识，会用显微镜检测观察微生物，培养基的制备、消毒与灭菌，分离与纯化微生物，细菌的计数法
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:br w:type="textWrapping"/>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        2.
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        具
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        有
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        分析化学的理论知识
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        以及有机化学的动手实验能力
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:br w:type="textWrapping"/>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        3.
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        掌握发酵工艺原理，了解
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        谷氨酸钠、黄原胶
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+              发酵生产工艺
+             </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:br w:type="textWrapping"/>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        4.
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        掌握蛋白质
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        、
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        基因工程
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        以及酶
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t xml:space="preserve">
+              的基本理论知识
+             </w:t>
+                                                </w:r>
+                                            </w:p>
+                                            <w:p>
+                                                <w:pPr>
+                                                    <w:widowControl/>
+                                                    <w:spacing w:line="360" w:lineRule="auto"/>
+                                                    <w:jc w:val="left"/>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                </w:pPr>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"
+                                                                  w:hint="eastAsia"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        6.掌
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:hint="eastAsia"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        握现代生物工程技术及其产业化科学原理、工艺过程和工程设计等基础理论，基本技能。
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:br w:type="textWrapping"/>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        计算机能力：
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        熟练掌握office办公，熟悉
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:cs="宋体" w:hAnsi="宋体"/>
+                                                        <w:color w:val="000000"/>
+                                                        <w:kern w:val="0"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                    </w:t>
+                                                </w:r>
+                                                <w:r>
+                                                    <w:rPr>
+                                                        <w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+                                                        <w:szCs w:val="21"/>
+                                                    </w:rPr>
+                                                    <w:t>
+                                                        Auto CAD
+                                                    </w:t>
+                                                </w:r>
+                                            </w:p>
+                                        </w:tc>
+                                    </w:tr>
+                                </w:tbl>
+                                <w:p>
+                                    <w:pPr>
+                                        <w:widowControl/>
+                                        <w:spacing w:line="360" w:lineRule="auto"/>
+                                        <w:jc w:val="left"/>
+                                        <w:rPr>
+                                            <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                            <w:kern w:val="0"/>
+                                            <w:szCs w:val="21"/>
+                                        </w:rPr>
+                                    </w:pPr>
+                                </w:p>
+                            </w:tc>
+                        </w:tr>
+                    </w:tbl>
+                    <w:p>
+                        <w:pPr>
+                            <w:widowControl/>
+                            <w:spacing w:line="360" w:lineRule="auto"/>
+                            <w:jc w:val="left"/>
+                            <w:rPr>
+                                <w:rFonts w:ascii="ˎ̥" w:cs="宋体" w:hAnsi="ˎ̥"/>
+                                <w:kern w:val="0"/>
+                                <w:sz w:val="18"/>
+                                <w:szCs w:val="18"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p>
+            <w:pPr>
+                <w:rPr>
+                    <w:rFonts w:hint="eastAsia"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:sectPr>
+            <w:pgSz w:h="16838" w:w="11906"/>
+            <w:pgMar w:bottom="1440" w:footer="992" w:gutter="0" w:header="851" w:left="1800" w:right="1800"
+                     w:top="1440"/>
+            <w:cols w:num="1" w:space="425"/>
+            <w:docGrid w:charSpace="0" w:linePitch="312" w:type="lines"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

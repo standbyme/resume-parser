@@ -13,7 +13,7 @@ package object ResumeParser {
   }
 
   def strategy_factory(root_node: Node): (Node => Boolean) = {
-    val key_font_size = get_font_sizes_of_node(root_node).view.distinct.sorted.apply(2)
+    val key_font_size = get_font_sizes_of_node(root_node).toStream.distinct.sorted.reverse.apply(1)
     println(key_font_size)
 
     def strategy(node: Node): Boolean = {

@@ -1,1950 +1,275 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<w:document mc:Ignorable="w14 w15 wp14" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
->
-    <w:body>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="44"/>
-                    <w:szCs w:val="44"/>
-                </w:rPr>
-            </w:pPr>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:body>
+    <w:tbl>
+      <w:tr>
+        <w:tc>
+          <w:p>
             <w:r>
-                <w:rPr>
-                    <w:sz w:val="44"/>
-                    <w:szCs w:val="44"/>
-                </w:rPr>
-                <w:t>
-                    樊小伟
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="44"/>
-                    <w:szCs w:val="44"/>
-                </w:rPr>
-                <w:t>
-                    简历
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="44"/>
-                    <w:szCs w:val="44"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="44"/>
-                    <w:szCs w:val="44"/>
-                </w:rPr>
-                <w:t>
-                    （开发转测试）
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-                <w:t>
-                    基本情况
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    职 位：软件测试
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t xml:space="preserve">
-     性别：男
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    出生年月：19
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    90
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t xml:space="preserve">
-     年
-    </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    籍贯：
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    湖北省
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    教育背景：1
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    年毕业华中科技大学武昌分校（
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t xml:space="preserve">
-     大专）
-    </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    专业：
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    财务管理
-                </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-                <w:t>
-                    工作经历
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:tbl>
-            <w:tr>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                时间
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                任职公司
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                参与
-                            </w:t>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                项目
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                工作职位
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-            </w:tr>
-            <w:tr>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                2015/9/
-                            </w:t>
-                        </w:r>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                --2016/5
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                深圳泡椒思志信息技术有限公司
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                爱游游(手机app后台管理系统)
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                java工程师
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-            </w:tr>
-            <w:tr>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                2014/11--2015/9
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                中软国际
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                售前云Proposal投标书与解决方案项目组
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                售前云CIR项目组
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                java工程师
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-            </w:tr>
-            <w:tr>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                2013/3-2014/9
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                武汉光庭信息技术有限公司
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t xml:space="preserve">
-        客户管理系统
+              <w:rPr>
+                <w:sz w:val="20" />
+              </w:rPr>
+              <w:t>
+        简    历
        </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-                <w:tc>
-                    <w:p>
-                        <w:pPr>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                        </w:pPr>
-                        <w:r>
-                            <w:rPr>
-                                <w:sz w:val="21"/>
-                                <w:szCs w:val="21"/>
-                            </w:rPr>
-                            <w:t>
-                                java工程师
-                            </w:t>
-                        </w:r>
-                    </w:p>
-                </w:tc>
-            </w:tr>
-        </w:tbl>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-                <w:t>
-                    IT技术专长
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    测试
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    技能
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    通过自学
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    掌握测试理论、测试方法及测试流程；
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    对于
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    单元测试 理解到这是对软件的独立单元与程序的其他部分相隔离的情况下的测试，偏重于功能。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    集成测试 理解到这是将所有模块按照设计要求，组装成子系统或系统，进行测试，偏重于模块间的数据是否符合要求。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    系统测试 理解到这是配成一个完整的系统来测试，检验整个软件是否确实能提供需求中指定的功能。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    专业技能
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    熟练运用MyEclipse，Eclipse开发工具，掌握Tomcat6.0等Web容器的配置及部署
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2．熟悉HTML、DIV+CSS、easyUI 、jqgrid、 JavaScript、XML等Web开发技术。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    3．熟悉Oracle、MySql、SQL Server数据库操作。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    4．熟练使用SSH，springMVC框架进行MVC模式应用开发。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    5．掌握JSP、Servlet、JDBC、Java Bean等J2EE技术.对webservice有简单的了解.
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    6.
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    熟练使用js的页面开发
-                </w:t>
-            </w:r>
-            <w:r>
-                <w:rPr>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="28"/>
-                    <w:szCs w:val="28"/>
-                </w:rPr>
-                <w:t>
-                    主要项目情况
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    主要项目名称：（深圳泡椒思志信息技术有限公司）爱游游
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发工具：Eclipse,SVN，SQLyog
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    技术框架：springMVC，jqgrid, easyUI, Mybatis
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    项目描述：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    爱游游项目是为手机游戏发烧友打造的交流平台。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    负责模块：后台管理
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    我负责爱游游后台管理的多个模块的开发。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    包括：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1.游吧管理模块
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2.游吧成员管理模块
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    3.游戏管理模块
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    4.帖子管理模块
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    5.用户管理模块
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    6.广告配置、推荐
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    主要项目名称：（中软国际科技服务有限公司）售前云CIR项目组
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发工具：Eclipse,ClearCase
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发环境：Windows +Oracle+ JDK1.7,tomcat6
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    技术框架：jalor5框架
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    项目描述：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1.售前云是一个很大的项目组，据说项目组有几百号人，我所在的CIR项目组主要负责售前云当中的合同模块。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    负责模块：问题管理
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    我个人负责的是CIR中的问题管理这一块的东西，包括问题的
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1.问题的创建页面。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2.问题的查询页面
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    3.问题状态的变化页面
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    4.发送邮件：从问题的创建开始，问题的状态每次变化都要发送不同的邮件给不同的角色
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    5.发送邮件代办。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    主要项目名称：（中软国际科技服务有限公司）售前云Proposal投标书与解决方案项目组
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发工具：Eclipse,ClearCase，maven,svn
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发环境：Windows +Oracle+ JDK1.7,tomcat6
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    技术框架：jalor5框架
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    项目描述：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t xml:space="preserve">
-     该项目组同样隶属于售前云，主要负责标书这一大块的内容。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    负责模块：评审关联文档模块
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    我个人负责的是标书中的评审关联文档这一块。主要包括：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1.点击评审关联出对应的文档列表和评审报告列表（文档的单个下载和批量下载）。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2.添加文档
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    3.文档的上传
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    4.文件夹的上传
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    5.文档的删除
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    6.文档的搜索以及文档的更新和文档版本号的控制
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    7.以上所有的功能后来又配置成了MVG模式。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    项目名称：（武汉光庭信息技术有限公司）客户管理系统
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发工具：JBuilder + PowerDesigner + Log4j +BeanUtils +IReport
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    开发环境：Windows + mysql + Tomcat6.0 + JDK1.6
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    技术框架：B/S模式 Jsp + Servlet + JavaBean + Ajax
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    项目描述：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1.客户是公司最宝贵的资源，为了更好的挖掘老客户的价值，并开发更多新客户，公司决定实施客户关系管理系统。希望通过这个系统完成对公司客户基本信息、联系人信息，交往信息，服务信息的规范化管理，希望通过对销售机会、客户开发过程的跟踪和记录，提高新客户的开发能力，希望系统提供相关报表，以便公司高层领导能够随时了解公司客户情况。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2.此系统分为六大模块。
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1.营销管理：（销售机会管理，客户开发计划）
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2.客户管理：（客户信息管理，客户流失管理）
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    3.服务管理（服务创建、服务分配、服务处理、服务反馈、服务归档）
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    4.统计报表（客户贡献分析、客户构成分析、客户服务分析、客户流失分析）
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    5. 基础数据（数据字典管理、查询产品信息、查询库存）
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    6. 系统管理（用户、角色、权限）
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    负责模块：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1、数据库的搭建
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2、服务管理中的5个模块
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    主要技术：
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    1.项目采用MVC三层体系结构，SSH框架开发；
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    2.灵活使用structs的便捷的控制转发，hibernate的方便的持久化处理，
-                    以及spring强大的解耦合的特性，使spring在structs的action就开始介入，很好的降低了系统的耦合度；
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    3.采用注解，使用自动注入的方式，让项目整体更加简单易懂，清晰明了；
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    4.面向接口的编程方式使整个应用变的非常灵活，易于扩展，有新业务需要添加更本不需要更改以前的代码;
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    5.采用JDBC的数据连接方式；
-    </w:t>
-            </w:r>
-        </w:p>
-        <w:p>
-            <w:pPr>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-            </w:pPr>
-            <w:r>
-                <w:rPr>
-                    <w:sz w:val="21"/>
-                    <w:szCs w:val="21"/>
-                </w:rPr>
-                <w:t>
-                    6.灵活采用JS+div+CSS完成界面的美观排版以及特效
-    </w:t>
             </w:r>
-        </w:p>
-    </w:body>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        个人信息
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        姓    名： 赖苑 性    别： 女? 出生日期： 1993年7月 居 住 地： 广东省深圳市宝安区 工作年限：应届毕业生 电子邮件： 627415485@qq.com 手    机：15818570318 政治面貌：          求职意向： 共青团员文员行政关 键 词：创新 团队意识 热情 语言表达 负责
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        自我评价
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        1、本人活泼开朗，具有良好的语言表达能力，善于与人沟通，具有创新和活跃的思维。2、具有团队合作意识，协调团队之间的工作以及促进团队间的沟通，有着独特想法。 3、勇于接受各种挑战，有强烈的上进心，熟练操作PPT、WORD等办公软件，熟练粤语、英语以及普通话。 4、对待工作认真负责，富有热情，对微博微信新媒体文案有敏锐的洞察能力和兴趣，热爱参与新媒体互动活动。
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        工作经验
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        2015/3—2015/12： B&amp;B汽车俱乐部文员/续保专员1.身兼行政工作 例如文件管理、文件打印、协助人事行政工作2.通过打电话形式发报价给客户，不断跟进电话促成保险3.为公司大型活动策划文案并协调公司各部门通力合作完成各类活动2015/01 -- 2015/03：友邦保险深圳分公司 人力资源专员/助理1.拨打电话通知面试人员面试、预约面试时间、发放面试通知、协助组织安排面试。2.身兼行政工作 例如文件管理、文件打印、协助人事行政经理处理人事方面的其他工作、完成领导交办的其他报表整理。2014/1--2015/1：香港至高医疗顾问中心区域销售专员/助理医疗/护理/美容/保健/卫生服务 | ?1、通过电话销售的形式，能够按照公司要求积极完成各项任务指标?2、积极拓宽正在合作的客户进行回访，维护老客户?3、发掘意向客户及时做好回访，积极促成产品的销售?4、妥善解决老客户的疑问并能够为其提供需要的服务。5、参与制定公司年会及各类大型活动
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        教育经历
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        2011/9 --2015/7深圳职业技术学院国际商务大专
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        所获奖项
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        2013/9深职院十大歌手比赛最佳人气奖
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        校内职务
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        2011/10 -- 2014/12学院志愿者协会参与制定志愿者协会外出实践活动的组织策划实施。 参与深圳市义工协会组织的各项活动。与深圳义工协会沟通协作组织三下乡活动
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        证    书
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        2013/9全国大学英语四级2012/9全国大学生计算机一级2013/5普通话二级乙等2014/1C2驾驶证
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        语言能力
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+    <w:tbl>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        精通粤语、普通话，英语口语良好
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        文案策划
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc>
+          <w:p>
+            <w:r>
+              <w:rPr>
+                <w:sz w:val="18" />
+              </w:rPr>
+              <w:t>
+        大学期间，加入深圳包车团队成为其中一员，在每年万圣节、圣诞节、元旦节等中外代表性节日，通过利用包车团队的微博微信并针对节日的特性策划线上线下相关的活动，比如说通过购票抽奖、转发朋友圈集赞、转发朋友圈@好友等等形式，吸引更多人购买车票，同时打出本包车团队的品牌名声，广为人知。大学期间，加入学院志愿者协会，通过与共青团学院委员会、深圳市义工联的沟通协作，策划了植树活动、寒冬捐衣送温暖活动、为贫困校友捐款捐物活动等等，利用微博微信、现场摆摊宣传等线上线下的策划，并积极参与活动文案的撰写，具有一定的活动文案撰写能力、互动沟通协调能力和执行力。各项活动都能引起校友和社会的共鸣，并取得良好的效果。
+       </w:t>
+            </w:r>
+          </w:p>
+        </w:tc>
+      </w:tr>
+    </w:tbl>
+  </w:body>
 </w:document>
